@@ -1,0 +1,25 @@
+Objetivo da aula de hoje: 04/11/2024 (Elétrica Básica) UC-01 - CONTINUAÇÃO E FINALIZAÇÃO DO PRIMEIRO CONTEÚDO
+
+1ª Aula: Conhecendo a Eletricidade, Tipos de Energia, Corrente, Tensão e Potência.
+
+Nessa primeira aula, vamos conhecer um pouco sobre a importância da eletricidade, corrente elétrica, tensão elétrica, potência elétrica, tipos de energia, meios de transmissão e os primeiros cálculos elétricos.
+
+Link direto: https://sites.google.com/view/procedimentosemti
+
+A) DEIXAR ABERTO O SIMULADOR SIMPLES DE ELÉTRICA PhET
+B) DEIXAR ABERTO O SIMULADOR PROFISSIONAL DE ELÉTRICA TINKERCAD
+
+2ª Aula: Conhecendo e Trabalhando com o Github
+A) APENAS DE AUTENTICAR NO GITHUB COM SUA CONTA E AGUARDAR OS PROCEDIMENTOS DA AULA PARA CRIAR REPOSITÓRIOS, EDITAR ARQUIVOS E ENVIAR DOCUMENTOS/IMAGENS E ORGANIZAR OS MATERIAIS DE ESTUDO. 
+
+P(va)= U(v).I(a)
+P(va)=10v.1a
+P(va)=10VA
+
+Tudo que for 100% resistencia multiplica por 1.
+
+
+para converter para potência ativa
+Pw=VA.FP
+Pw=10VA.1
+Pw=10W

@@ -1,0 +1,13 @@
+Objetivo da aula de hoje: 06/11/2024 (Elétrica Básica) UC-01
+
+2ª Aula: Conhecendo a Primeira Lei de Ohm, Resistência Elétrica, Cálculos Elétricos de Tensão, Corrente, Resistência e Potência.
+
+Nessa segunda aula, vamos conhecer um pouco sobre Resistência Elétrica, conhecer a Primeira Lei de Ohm, executar os cálculos de Tensão, Corrente e Resistência, conhecer o Triangulo Mágico de Ohm para Resistência e Potência Aparente (Reativa e Ativa).
+
+Link direto: https://sites.google.com/view/procedimentosemti
+
+A) DEIXAR ABERTO O SIMULADOR SIMPLES DE ELÉTRICA PhET
+B) DEIXAR ABERTO O SIMULADOR PROFISSIONAL DE ELÉTRICA TINKERCAD
+
+2ª Aula: Conhecendo e Trabalhando com o Github
+A) APENAS DE AUTENTICAR NO GITHUB COM SUA CONTA E AGUARDAR OS PROCEDIMENTOS DA AULA. 
