@@ -1,0 +1,55 @@
+1  poweroff
+    2  sudo
+    3  sudo apt update 
+    4  sudo apt upgrade 
+    5  sudo apt upgrade --fix-missing
+    6  sudo apt autoremove 
+    7  sudo apt autoclean 
+    8  sudo reboot 
+    9  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+   10  sudo dpkg -i *
+   11  sudo apt install git
+   12  exit
+   13  sudo apt install cairo-dock
+   14  sudo apt install cairo-dock pulseaudio
+   15  sudo apt install cairo-dock pulseaudio --fix-missing
+   16  startx 
+   17  sudo apt purge pulseaudio
+   18  sudo apt install --fix-missing
+   19  sudo apt install nautilus
+   20  sudo apt install nautilus --fix-missing
+   21  sudo apt autoremove 
+   22  sudo apt autoclean 
+   23  sudo apt clean
+   24  sudo apt update
+   25  sudo apt install nautilus --fix-missing
+   26  sudo apt install nautilus
+   27  sudo apt install nautilus --fix-broken
+   28  sudo apt --fix-broken install nautilus
+   29  sudo apt --fix-broken install nautilus nautilus-data
+   30  sudo apt --fix-broken install nautilus nautilus-data libnautilus-extension4
+   31  startx
+   32  less .local/share/xorg/Xorg.1.log
+   33  sudo apt purge cairo-dock
+   34  sudo apt autoremove 
+   35  sudo reboot 
+   36  sudo apt install cairo-dock
+   37  sudo apt install cairo-dock pulseaudio
+   38  ls
+   39  sudo apt update
+   40  exit
+   41  sudo apt show linux-oem-24.04b 
+   42  top
+   43  sudo apt update
+   44  sudo apt install git vim
+   45  sudo init 0
+   46  sudo apt install linux-oem-24.04b 
+   47  git
+   48  git config --global user.name "Robson Vaamonde" 
+   49  git config --global user.email 
+   50  history 
+   51  git config --list
+   52  exit
+   53  git clone https://github.com/vaamonde/senac-tat-t
+   54  exit
+   55  history
